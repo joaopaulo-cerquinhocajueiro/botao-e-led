@@ -37,7 +37,7 @@ A brincadeira é tentar identificar o funcionamento do sistema sem saber que con
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/lacufpe/botao_e_led.git
+   git clone https://github.com/lacufpjoaopaulo-cerquinhocajueiro/botao_e_led.git
    cd botao_e_led
 ```
 2. Abra o projeto com o PlatformIO (VSCode) ou compile com o Arduino IDE.
