@@ -1,7 +1,7 @@
 # Projeto: botao_e_led
 
-Controle de LED via botão com lógica configurável por DIP switch.
-
+Controle de LED via botão com lógica configurável. Consegue identificar como aciona?
+![Visualização por IA](botão_e_led.png)
 ## 📋 Descrição
 
 Este projeto foi desenvolvido para o Arduino Uno e permite acionar um LED com um botão, cuja lógica de acionamento pode ser modificada dinamicamente através de 4 chaves DIP switch.
@@ -37,7 +37,7 @@ A brincadeira é tentar identificar o funcionamento do sistema sem saber que con
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/lacufpjoaopaulo-cerquinhocajueiro/botao_e_led.git
+   git clone https://github.com/joaopaulo-cerquinhocajueiro/botao_e_led.git
    cd botao_e_led
 ```
 2. Abra o projeto com o PlatformIO (VSCode) ou compile com o Arduino IDE.
